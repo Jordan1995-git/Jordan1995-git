@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan
 - 👀 I’m interested in data science and bioinformatics
-- 🌱 I’m currently working on my coding skills, learingn python and improving my proficiency in R
+- 🌱 I’m currently working on my coding skills, trying to advance my python, R, and rust knowledge
 - 💞️ I’m looking to collaborate on science-related projects. 
 - 📫 Reach me at j.tzvetkov1995@gmail.com
 
